@@ -1,6 +1,6 @@
 This is my portfolio website.
 
-Portfolio Link: https://rp7007.github.io/my-portfolio/
+Portfolio Link: https://rpcportfolio.vercel.app/
 
 Built using HTML, CSS and JavaScript.
 
