@@ -834,9 +834,25 @@ img {
   margin-right: var(--mb-0-75);
 }
 
-.content__title {
+.contact__title {
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
+}
+
+.contact__link {
+  font-size: var(--small-font-size);
+  color: var(--first-color);
+  text-decoration: underline;
+}
+
+.contact__link:hover {
+  color: var(--first-color-alt);
+}
+
+.contact__link:focus {
+  outline: none;
+  text-decoration: none;
+  color: var(--first-color-alt);
 }
 
 .contact__subtitle {
